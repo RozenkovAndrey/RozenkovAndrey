@@ -5,7 +5,7 @@
 Мой стек:
 - SQL (SELECT, JOIN, CTE, GROUP BY, windows functions, опыт работы с БД MySQL, PostgreSQL)
 - Excel (ВПР, POWER QUERY, сводные таблицы, формирование отчётов и др.), 
-- Power BI и проектирование дашбордов,
+- Power BI и Tableau,
 - Python (Pandas, Matplotlib, Seaborn, Stats, SciPy, Jupiter Notebook, Colab), предобработка и визуализация данных, исследовательский анализ, выявление зависимостей и автоматизация 
 - Продуктовые метрики (LTV, ROI, CAC, CR, Ratention Rate, Churn Rate и др.),
 - Математическая статистика, генерация, проверка и приоритезация гипотез (RICE, ICE), А/B-тестирование
